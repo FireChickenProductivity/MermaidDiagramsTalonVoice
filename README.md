@@ -1,13 +1,15 @@
 # MermaidDiagramsTalonVoice
 Talon Voice customization for creating mermaid diagrams. Functionality is currently very limited. This is being developed primarily using [BasicActionRecordAnalyzer](https://github.com/FireChickenProductivity/BasicActionRecordAnalyzer) as the repository owner creates mermaid diagrams. 
 
-#Dependencies:
+# Dependencies:
+
 https://github.com/FireChickenProductivity/ActionsForGeneratedCommands
 
 https://github.com/talonhub/community
  (for the user.prose capture)
 
-#Commands:
+# Commands:
+
 mermaid on: turns the mermaid commands on
 
 mermaid off: turns the mermaid commands off
