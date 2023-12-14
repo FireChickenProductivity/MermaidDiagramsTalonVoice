@@ -34,7 +34,7 @@ braces:
     key('#')
     insert('125')
     key('left')
-    repeat(4)
+    repeat(3)
 
 interface:
     insert('<>')
