@@ -26,7 +26,7 @@ open brace: creates what will be shown visually as an open brace
 
 closing brace: creates what will be shown visually as an closed brace
 
-braces: creates what will be shown visually as seeing a pair of braces
+braces: creates what will be shown visually as a pair of braces
 
 make interface: denotes that the current class is an interface
 
