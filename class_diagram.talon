@@ -16,6 +16,13 @@ inherits:
     repeat(1)
     key('space')
 
+depends:
+    key('space')
+    key('<')
+    key('.')
+    repeat(1)
+    key('space')
+
 open brace:
     key('&')
     key('#')
