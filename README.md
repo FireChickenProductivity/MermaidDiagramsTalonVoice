@@ -18,6 +18,8 @@ class (user.text)$: creates the class with the specified name
 
 inherits: inserts the inheritance symbol pointing left
 
+depends: inserts the dependency symbol pointing left
+
 open brace: creates what will be shown visually as an open brace
 
 closing brace: creates what will be shown visually as an closed brace
