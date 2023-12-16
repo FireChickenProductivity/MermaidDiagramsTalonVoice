@@ -36,12 +36,12 @@ closing brace:
 braces:
     key('&')
     key('#')
-    key('&')
     insert('123')
+    key('&')
     key('#')
     insert('125')
     key('left')
-    repeat(3)
+    repeat(4)
 
 make interface:
     insert('<>')
